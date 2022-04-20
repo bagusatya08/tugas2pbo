@@ -21,3 +21,8 @@ Terdapat 3 jenis Inheritance Concept dalam repository ini,
    * [Persegi.java] (https://github.com/bagusatya08/tugas2pbo/blob/master/src/inheritance/Persegi.java)
    * [PersegiPanjang.java] (https://github.com/bagusatya08/tugas2pbo/blob/master/src/inheritance/PersegiPanjang.java)
    * [Segitiga.java] (https://github.com/bagusatya08/tugas2pbo/blob/master/src/inheritance/Segitiga.java)
+
+## Main Class
+   Berikut main class java project ini yang didalamnya telah berisi pilihan jenis konsep
+   dan alur penggunaan inheritance pada Java.
+   ((https://github.com/bagusatya08/tugas2pbo/blob/master/src/inheritance/Main.java))
